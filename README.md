@@ -57,4 +57,3 @@ To use ExtrAzon for your web scraping needs:
 4. Customize the scraping parameters as needed in the script.
 
 
-Feel free to customize this README template with additional sections or information specific to your project. It provides a clear overview of your web scraping application and how others can use it or contribute to it.
